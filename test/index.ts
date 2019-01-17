@@ -2,7 +2,7 @@ import 'mocha'
 import * as assert from 'assert'
 import {randomBytes} from 'crypto'
 import * as fetch from 'node-fetch'
-import {PrivateKey, Client, utils, Signature} from 'dknowledgr' // changed dsteem -> dknowledgr. 2018-12-11
+import {PrivateKey, Client, utils, Signature} from 'dknowledgr'
 
 import {sign, validate, JsonRpcRequest, VerifyMessage, SignedJsonRpcRequest} from './../src/'
 
