@@ -487,19 +487,10 @@ diff@^3.1.0, diff@^3.2.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/diff/-/diff-3.4.0.tgz#b1d85507daf3964828de54b37d0d73ba67dda56c"
 
-dknowledgr@../dknowledgr/:
-  version "0.11.1"
-  dependencies:
-    bs58 "^4.0.1"
-    bytebuffer "^5.0.1"
-    core-js "^2.5.0"
-    node-fetch "^2.3.0"
-    secp256k1 "^3.5.2"
-    verror "^1.10.0"
-    whatwg-fetch "^3.0.0"
-
-"dknowledgr@file:../dknowledgr":
-  version "0.11.1"
+dknowledgr@^0.11.3:
+  version "0.11.3"
+  resolved "https://registry.yarnpkg.com/dknowledgr/-/dknowledgr-0.11.3.tgz#09b3d6ec52ce06abcbfc259d69b5a8adb9e974e0"
+  integrity sha512-aHBflSkQ4t8dAZXVDMP6ODUFexUbQ5y24CuBGSN/jEvxlDRJXhQGhMqycICl5yXEQtWOJe7JiIidyeiNEj4gCg==
   dependencies:
     bs58 "^4.0.1"
     bytebuffer "^5.0.1"
