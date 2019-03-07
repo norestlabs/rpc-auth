@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"@steemit/libcrypto@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@steemit/libcrypto/-/libcrypto-1.0.1.tgz#c31ab3e5deb667628169b3d54d746b015de31a79"
+"@nrl-demo/libcrypto@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@nrl-demo/libcrypto/-/libcrypto-1.0.3.tgz#e9201f5bd0c2af79e53797a394ad84c5980eca17"
+  integrity sha512-3FJn9nQ2C3qD2OPwEXszO8VWQ9f20eCeTFvs/cJcbQ+cRgtbl9umgxJA+iXtpw6u6ZMJFCnnlzvIaoW/ZXZ1tg==
 
 "@types/mocha@^2.2.47":
   version "2.2.47"
