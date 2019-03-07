@@ -3,7 +3,7 @@
  * @author Johan Nordberg <johan@steemit.com>
  */
 
-import {hexify, PrivateKey} from '@steemit/libcrypto'
+import {hexify, PrivateKey} from '@nrl-demo/libcrypto'
 import {createHash, randomBytes} from 'crypto'
 
 /**
