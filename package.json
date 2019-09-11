@@ -16,7 +16,7 @@
     "node": ">=8"
   },
   "dependencies": {
-    "@nrl-demo/libcrypto": "^1.0.3"
+    "@knowledgr/libcrypto": "^1.0.3"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.47",
