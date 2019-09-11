@@ -1,5 +1,5 @@
 {
-  "name": "@nrl-demo/rpc-auth",
+  "name": "@knowledgr/rpc-auth",
   "description": "JSON-RPC 2.0 authentication using knowledgr blockchain authorities",
   "version": "1.1.7",
   "license": "MIT",
